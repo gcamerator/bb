@@ -3,23 +3,15 @@
   "version": "0.5.1",
   "description": "WhatsApp Web API Library",
   "keywords": [
-    "wileys",
-    "baileys",
-    "baileys/wileys",
-    "wileys/baileys",
-    "whatsapp",
-    "whatsapp-api",
-    "whatsapp-web",
-    "whatsapp-bot",
-    "automation",
-    "multi-device"
+    "midsoune",
+    "baileys"
   ],
-  "homepage": "https://www.npmjs.com/package/wileys",
+  "homepage": "https://www.npmjs.com/package/mbaileys",
   "repository": {
-    "url": "https://www.npmjs.com/package/wileys"
+    "url": "https://www.npmjs.com/package/mbaileys"
   },
   "license": "MIT",
-  "author": "wileys",
+  "author": "MidSoune",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
